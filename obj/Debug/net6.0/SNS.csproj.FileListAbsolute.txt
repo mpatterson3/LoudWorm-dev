@@ -24,3 +24,4 @@ C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\
 C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\Debug\net6.0\ref\SNS.dll
 C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\Debug\net6.0\SNS.pdb
 C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\Debug\net6.0\SNS.genruntimeconfig.cache
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\.runtimeconfig.json

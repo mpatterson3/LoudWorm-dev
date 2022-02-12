@@ -1,0 +1,8 @@
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\SNS.exe
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\.runtimeconfig.json
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\SNS.dll
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\SNS.deps.json
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\SNS.runtimeconfig.json
+C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\publish\SNS.pdb
