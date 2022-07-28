@@ -25,3 +25,30 @@ C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\
 C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\Debug\net6.0\SNS.pdb
 C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\obj\Debug\net6.0\SNS.genruntimeconfig.cache
 C:\Users\mpatt\OneDrive\Documents2\mpUtilities\Projects\Dotnet projects\SNS\bin\Debug\net6.0\.runtimeconfig.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\.runtimeconfig.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\appsettings.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\SNS.staticwebassets.runtime.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\SNS.exe
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\SNS.deps.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\SNS.runtimeconfig.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\SNS.dll
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\bin\Debug\net6.0\SNS.pdb
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.csproj.AssemblyReference.cache
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.AssemblyInfoInputs.cache
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.AssemblyInfo.cs
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.csproj.CoreCompileInputs.cache
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.RazorAssemblyInfo.cache
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.RazorAssemblyInfo.cs
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\scopedcss\bundle\SNS.styles.css
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\scopedcss\projectbundle\SNS.bundle.scp.css
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.dll
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\refint\SNS.dll
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.pdb
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\SNS.genruntimeconfig.cache
+C:\Users\mpatt\Source\Repos\LoudWorm-dev\obj\Debug\net6.0\ref\SNS.dll
